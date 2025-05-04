@@ -22,32 +22,13 @@ This project allows users to manually explore all legal knight moves on a standa
 - Use the **Hint** button to reveal possible next moves.
 - Use the **Reset** button to restart the tour at any time.
 
----
-
-## Project Structure
-
-.
-├── tour.html # Main HTML file
-├── script.js # JavaScript for interaction logic
-├── body/
-│ └── body.css # General body-level styles
-├── chessboard/
-│ └── chessboard.css # Chessboard-specific styles
-├── control-section/
-│ └── control-section.css # Hint and reset controls
-├── info-section/
-│ └── info-section.css # Rules and instructions
-├── icons/
-│ └── knight.png # Icon used for knight visualization
-
 To run the app locally:
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/knights-tour-web.git
+   https://github.com/jaemate19/knights-tour-web.git
    cd knights-tour-web
 
-2.Open the index.html file in your web browser
+2.Open the tour.html file in your web browser
 
 Technologies Used
 
