@@ -26,7 +26,7 @@ To run the app locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/knights-tour-web.git
+   git clone git@github.com:jaemate19/knights-tour-web.git
    cd knights-tour-web
 
 2.Open the index.html file in your web browser
